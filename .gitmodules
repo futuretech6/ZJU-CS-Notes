@@ -1,0 +1,12 @@
+[submodule "Sophomore1"]
+	path = Sophomore1
+	url = git@github.com:FUTURETECH6/Notes-Sophomore1.git
+[submodule "Junior1"]
+	path = Junior1
+	url = git@github.com:FUTURETECH6/Notes_Junior1.git
+[submodule "Junior2"]
+	path = Junior2
+	url = git@github.com:FUTURETECH6/Notes_Junior2.git
+[submodule "Sophomore2"]
+	path = Sophomore2
+	url = git@github.com:FUTURETECH6/Notes-Sophomore2.git
