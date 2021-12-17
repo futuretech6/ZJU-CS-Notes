@@ -13,7 +13,7 @@ git submodule update --remote
 
 ```c
 .
-├── Junior1  /* 大三下 */
+├── Junior1  /* 大三上 */
 │   ├── 🐱概    // 毛概
 │   ├── CA      // 计算机体系结构 🍺
 │   ├── CG      // 计算机图形学
