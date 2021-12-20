@@ -12,7 +12,7 @@ git submodule update --remote
 标有:beer:的是认真记了笔记的，其他的内容可能较简略
 
 ```c
-.
+Notes
 ├── Junior1  /* 大三上 */
 │   ├── 🐱概    // 毛概
 │   ├── CA      // 计算机体系结构 🍺

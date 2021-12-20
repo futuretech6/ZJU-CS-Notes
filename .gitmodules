@@ -10,3 +10,36 @@
 [submodule "Junior2"]
 	path = Notes/Junior2
 	url = git@github.com:FUTURETECH6/Notes_Junior2.git
+[submodule "PasGo"]
+	path = Projects/CP_Final
+	url = git@github.com:FUTURETECH6/PasGo
+[submodule "Skywalker"]
+	path = Projects/CG_Final
+	url = git@github.com:FUTURETECH6/Skywalker
+[submodule "OS_Lab"]
+	path = Projects/OS_Lab
+	url = git@github.com:FUTURETECH6/OS_Lab
+[submodule "software-engineering-backend"]
+	path = Projects/SE_Backend
+	url = git@github.com:FUTURETECH6/software-engineering-backend
+[submodule "Projects/SSEC_Lab"]
+	path = Projects/SSEC_Lab
+	url = git@github.com:FUTURETECH6/SSEC_HW
+[submodule "Projects/DBS_Final"]
+	path = Projects/DBS_MiniSQL
+	url = git@github.com:FUTURETECH6/MiniSQL
+[submodule "Projects/Org_Final"]
+	path = Projects/Org_Final
+	url = git@github.com:FUTURETECH6/Org2048
+[submodule "Projects/OOP_Final"]
+	path = Projects/OOP_Final
+	url = git@github.com:FUTURETECH6/ObjectSerialization
+[submodule "Projects/DBS_Library"]
+	path = Projects/DBS_Library
+	url = git@github.com:FUTURETECH6/BMS
+[submodule "Projects/Arduino_Final"]
+	path = Projects/Arduino_Final
+	url = git@github.com:FUTURETECH6/GateGuard
+[submodule "Projects/LCDF_Final"]
+	path = Projects/LCDF_Final
+	url = git@github.com:FUTURETECH6/FlappyBird
