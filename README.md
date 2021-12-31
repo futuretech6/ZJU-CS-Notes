@@ -3,8 +3,10 @@
 ```shell
 # clone repo with sub mod
 git clone git@github.com:FUTURETECH6/ZJU-CS-Notes.git --recursive
+
 # update sub mod
 git submodule update --remote
+git pull --recurse-submodules
 ```
 
 ## File tree
